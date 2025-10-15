@@ -100,3 +100,5 @@
     state: restarted
     daemon_reload: true
   when: "matrix_steam_bridge_requires_restart | bool"
+
+# Update: 2025-10-15
