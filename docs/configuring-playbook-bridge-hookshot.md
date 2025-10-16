@@ -183,3 +183,5 @@ The default logging level for this component is `warn`. If you want to increase 
 # Valid values: error, warn, info, debug
 matrix_hookshot_logging_level: debug
 ```
+
+<!-- Auto-update: 2025-10-16T12:25:49.409470 -->
